@@ -16,9 +16,7 @@ F1-score - 0.9795918367346939
 
 ---
 
-Confusion Matrix:  
-![Confusion Matrix](figures/Confusion_Matrix.png)
-
+<img src="figures/Confusion_Matrix.png" alt="Confusion Matrix" width="400">
 
 ---
 
